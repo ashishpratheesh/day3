@@ -190,7 +190,7 @@ for item in ss
     {
         if item.value is Int
         {
-            print("am an integer :\(item)" )
+            print("am an integer :\(item)")
             
         }
     if item.value is String
